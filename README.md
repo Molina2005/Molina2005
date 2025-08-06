@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Cristian Molina</h1>
+<h3 align="center">Programador Go | SQL | Entusiasta de Back-End</h3>
 
-<!--
-**Molina2005/Molina2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 Actualmente trabajando en: **Automatización de nómina y sistemas CRUD**
+- 🌱 Mejorando en: **Diseño de sistemas con Go y bases de datos SQL**
+- ⚙️ Tecnologías: `Go`, `MySQL`, `PostgreSQL`, `Git`, `Linux`
+- 🧠 Aprendiendo: Arquitectura limpia, patrones, REST API con Go
+- 💬 Pregúntame sobre: `Go`, `MySQL`, `terminal`, `Git`
+- 📫 Cómo contactarme: [tuemail@gmail.com](cm1094871@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Proyectos recientes
+
+---
+
+### 📈 Estadísticas de GitHub
+
+![Tu nombre GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight)
+
+---
+
+### 📂 Repos recomendados
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
