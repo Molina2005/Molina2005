@@ -16,14 +16,6 @@
 
 ---
 
-### 📈 Estadísticas de GitHub
-
-![Tu nombre GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight)
-
----
-
 ### 📂 Repos recomendados
 
 ---
