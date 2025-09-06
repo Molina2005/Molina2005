@@ -8,7 +8,7 @@
 - ⚙️ Tecnologías: `Go`, `MySQL`, `PostgreSQL`, `Git`, `Linux`
 - 🧠 Aprendiendo: Arquitectura limpia, patrones, REST API con Go
 - 💬 Pregúntame sobre: `Go`, `MySQL`, `terminal`, `Git`
-- 📫 Cómo contactarme: [tuemail@gmail.com](cm1094871@gmail.com)
+- 📫 Cómo contactarme: [cm1094871@gmail.com]()
 
 ---
 
